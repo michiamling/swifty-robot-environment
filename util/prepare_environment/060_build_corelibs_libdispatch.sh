@@ -30,8 +30,8 @@ pushd $SWIFT_ANDROID_SOURCE
 		make install
 
 		# Resulting paths are not taking the architecture and OS correctly.
-		mv /usr/local/lib/swift/linux/x86_64/Dispatch* /usr/local/lib/swift/android/armv7
-		mv /usr/local/lib/swift/linux/libdispatch* /usr/local/lib/swift/android
+		#mv /usr/local/lib/swift/linux/x86_64/Dispatch* /usr/local/lib/swift/android/armv7
+		#mv /usr/local/lib/swift/linux/libdispatch* /usr/local/lib/swift/android
 
 	popd
 

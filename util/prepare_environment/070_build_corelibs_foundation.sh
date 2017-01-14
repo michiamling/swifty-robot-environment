@@ -16,7 +16,7 @@
 
 source .profile
 
-export DOWNLOAD_URL_ZLIB=http://zlib.net/zlib-1.2.8.tar.gz
+export DOWNLOAD_URL_ZLIB=http://zlib.net/zlib-1.2.10.tar.gz
 export DOWNLOAD_URL_OPENSSL=https://www.openssl.org/source/openssl-1.0.2-latest.tar.gz
 export GIT_URL_CURL=https://github.com/curl/curl.git
 export GIT_URL_LIBXML2=git://git.gnome.org/libxml2
